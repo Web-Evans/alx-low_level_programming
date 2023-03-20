@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
- * main - A program that writes a puts function
- * \n
- * Return: always  0
+ * main - A program that writes puts function
+ *n
+ * Return: 0 (success)
  */
 int main(void)
 {
 	puts("\"programming is like building a multiligual puzzle");
-	return 0;
+	return (0);
 }
