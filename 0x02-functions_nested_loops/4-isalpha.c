@@ -2,7 +2,7 @@
 /**
  * _isalpha - check alphabetic character
  * @c: parameter to be checked
- * Return 1 if it is sn alphabet
+ * Return: 1 if it is sn alphabet
  * and 0 otherwise
  */
 
